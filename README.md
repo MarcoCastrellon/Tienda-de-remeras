@@ -4,4 +4,4 @@ En este proyecto personal creo una pagina de tienda de remeras a modo de practic
 HTML5 y CSS3, Siempre tratando de aplicar la mejor forma de codigo definiendo variables reutilizables en CSS3
 y Aplicando buena estructura para que el navegador lea correctamente el HTML.Ademas haciendola responsive para los dispositivos con resoluciones mas pequeñas.
 
-Limk de la pagina : https://modelodetiendavirtual.netlify.app
+Link de la pagina : https://modelodetiendavirtual.netlify.app
